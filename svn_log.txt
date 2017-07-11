@@ -1,1 +1,1 @@
-shop/mobile/include/apps/default/controller/
+shop/mobile/include/apps/default/controller/text.php

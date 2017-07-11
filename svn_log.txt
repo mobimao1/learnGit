@@ -1,1 +1,1 @@
-shop/mobile/include/apps/default/controller/WechatController.class.php
+shop/mobile/include/apps/default/controller/

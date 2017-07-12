@@ -8,3 +8,5 @@ test dev
 
 test confit master
 
+test Fast forward
+
